@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jionpapa.landmap",
+    "sha256_cert_fingerprints": ["76:44:9C:37:07:24:7C:29:60:D6:01:C3:86:38:73:91:05:D4:AD:20:58:70:29:DF:B2:A8:05:AB:7D:C3:66:8F"]
+  }
+}]
